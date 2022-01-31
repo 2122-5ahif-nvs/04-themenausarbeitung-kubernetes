@@ -1,4 +1,4 @@
-# Kubernetes - Baal Mathias, Hosic Tarik
+# Kubernetes - Bal Mathias, Hosic Tarik
 
 [Github Repository](https://github.com/MathiasBal/kubernetes-presentation)
 
